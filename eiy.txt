@@ -1,0 +1,244 @@
+ Dictionary Эиу 1674:
+
+	Vowels:
+
+		/и/-/i/: Pronounced like the "ee" in "see".
+		/у/-/y/: Pronounced like the "u" in "mule".
+		/э/-/ɛ/: Pronounced like the "e" in "bed".
+		/о/-/ɔ/: Pronounced like the "o" in "port".
+		
+	Consonants:
+
+		р-ɻ: Pronounced like the "r" in "red".
+		ь-ʎ: Pronounced like the "y" in "yes".
+		с-s: Pronounced like the "s" in "sit".
+		ж-χ: Pronounced like the "ch" in "loch".
+		х-h: Pronounced like the "h" in "help".
+		т-t: Pronounced like the "t" in "top".
+		т^-t̂: Pronounced like the "t" in "top", with a slight aspiration.
+		ш-ʃ: Pronounced like the "sh" in "shoe".
+		л-ɭ: Pronounced like the "l" in "tell".
+		з-θ: Pronounced like the "th" in "think".
+		д-ð: Pronounced like the "th" in "this".
+		в-β: Pronounced like the "v" in "vine".
+		й-j: Pronounced like the "ya"
+		
+	Grammar:
+
+		Capitalize at the start of a sentence.
+		End with an appropriate punctuation mark.
+		
+	Pronouns:
+
+		I/Me/Myself/my:ɭt
+			Masculine: ɭt
+			Feminine: ɭt̂
+		He/Him/She/Her/They/Them:
+			Masculine: ɻt
+			Feminine: ɻt̂
+		You:ðt
+			Masculine: ðt
+			Feminine: ðt̂
+		
+		Who: ʃt
+	
+			Masculine: ʃt
+			Feminine: ʃt̂
+			NonBinary:ʃt
+		
+	Question Words:
+
+		Where: ʃɛi
+		Why: ʃ
+		What: ʃi
+		How: ʃɛð
+		
+	Greetings:
+
+		Hello/Hi: j
+		
+	Verbs:
+
+		Are/Is/it: ɛy
+		Am: ɭy
+		An: ɭyɛ
+		
+	Prefixes:
+
+		Dis: ð
+		Un: θ
+		Re: ʃθ
+		
+	Feelings:
+
+		Love:
+		
+			
+			Like: βi
+			Dislike/Hate: ði
+			Unlove/I do not love you:
+			
+		
+	Time:
+
+		Today: sɔ
+		Yesterday: sɔi
+		Tomorrow: sɔɛ
+		
+	Shapes:
+
+		Box: syɔ
+		Circle: siɔ
+		Triangle: sɛɔ
+		Cube:sɔ
+		Tube:ðɔβɔ
+		
+	Places:
+
+		Work: ʃɔ
+		Space: ɭɔ
+		Workingspace: ʃɔɭɔ
+		Live: βɔ
+		Livingspace: βɔɭɔ
+		Building: syɔɭɔ
+		Office/Worksite: ʃɔsyɔɭɔ
+		Home/House/Livingspace: βɔɭɔsyɔɭɔ
+		
+	Miscellaneous:
+
+		Insult/Pig: ʃɔβɔ (considered somewhat taboo
+		This: tɔðɛ
+		Well: jɔðy
+		Actually:tɛɻi
+		Again: tɔβɛð
+		Will: jɔβy
+		Schedule: tɛɔ
+		Appointment: tɔɻɛ
+		Get: ðɔjɛ
+		talking: ɛ
+		way: iy
+		For: ðɻi
+		Intervention: ʃɔjɛ
+		Event: ʃɔjɔ
+		View:tɛβy
+		Area:hɛjɔ
+		Hall:hɛsɛɭ
+	Environment:
+		Cold:βɻɔ
+		Warm:βɔhɔ
+		Hot:ɔhɔ
+		Pretty:βihɔ
+		Lightning:βihɔhɔ
+		
+	
+	Quantifiers:
+		Very:βihɔhi
+		Small:hɛ
+		much:ʎɛβɔ
+		
+	Sizes:
+		Huge:hɔ
+		Big:hi
+		Small:hɛ
+		Tiny:hy
+		Long:ʎɛðɛ
+	
+	Entertainment:
+		TV:tiβi
+		
+	Technology:
+		Cord:βihɔhɔðɔβɔ
+		Electricity:hyβihɔhɔ
+		
+	Social stuff:
+		Thanks:ʃɛɔ
+		Please:ɭɛy
+		Yes:ɛɭɔ
+		No:ɛtɔ
+		Maybe:ɛðɔ
+		Fine:jtɔ
+		So:ʎɔ
+		Answer:ʃɛʃɛ
+		Question:ɭɛɔ
+		Query:ɭɔɛ
+		Okay: jtɛ
+		Help: ɭɛtɛ
+		Need: ɭɔtɔ
+		
+		
+		Family:
+			Mom:ʎy
+			Dad:ʎi
+			Sib:ɻy
+				Masculine:ɻi
+				Feminine:ɻy
+				NonBinary:ɻi
+			Cousin:βɔtɛ
+			Aunt:βɛt̂ɔ
+			Uncle:βɛtɔ
+			Grandma:βit̂ɛ
+			Granpa:βitɛ
+			
+			Prefixes:
+				Great:yɔ
+			
+	Adjectives:
+		
+		Smart:ʃɔʃɔ
+		Dum:ɭɔɭɔ
+		Cute:ʃɛɻɔ
+		Ugly:ɭɛɻɔ
+		Amazing:ɛβɔ
+		
+	Plants:
+		
+		Plant:ʎɛ
+		Wheat:ʎɛʎi
+		Barley:ʎɛʎɔ
+		Corn:ʎɛʎɛ
+		zucchini:ʎɛði
+		Potato:ʎɛðɔ
+		Watermelon:ɻɛsɛ
+		Starberry:ɻɛsi
+		Rasberry:ɻɛyɛ
+		Blackberry:ɻɛyi
+		
+	Devine stuff:
+		Devine:ðɛχ
+		Angel:ðɛχɻt
+		Miracle:ðɛχʃɔjɛ
+		Infidel:ɛɻɛ
+		
+	Worldbuilding stuff:
+		Home Planet:tiɻiβi
+		Pit:ɛtβɛ
+		Hell:ʃɛtɔ
+		Gulf:ɛɻy
+		Sea:tɛɭ
+		Peninsula:sɛɔɭɛθy
+		Land:ɭɛθy
+		Land/Ia/Stan:iɔ
+		
+
+		Island:ɛɭɛθy
+		Archipelago:ʃɛɭɛθy
+		Distric:βɛjɛ
+		Sun:βɛhɔ
+		Highway:tɛð
+		Road:tɛ
+		Section:hy
+		Intersection:ʃɔhy
+		Delta:tɛɭɛθy
+		Damn:Тэлто
+		
+		types of towns:
+			City:hɛðɛ
+			Town:hɛ
+			Capital:hɛtɔ
+			Farming:tɛt
+			Farming Town:tɛthɛ
+		
+		Names:
+			ɛɻɛiɔ:Infedelia
+		
+
